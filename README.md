@@ -35,6 +35,8 @@ QQ群：722359885
 
 
 2、填好后保存配置，点击开始工作就可以了。
+
+
 ![image](https://github.com/user-attachments/assets/62ec781b-a22e-4e17-878e-7ec1ac25051d)
 
 
