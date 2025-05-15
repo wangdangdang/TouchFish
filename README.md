@@ -32,6 +32,8 @@ QQ群：722359885
 使用说明：
 1、打开软件后填写自己的信息
 ![image](https://github.com/user-attachments/assets/371731b9-b3d6-4fa3-a591-773dbc122e57)
+
+
 2、填好后保存配置，点击开始工作就可以了。
 ![image](https://github.com/user-attachments/assets/62ec781b-a22e-4e17-878e-7ec1ac25051d)
 
